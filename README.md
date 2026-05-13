@@ -1,7 +1,7 @@
-# Aplicacion-TDD-grupo4
+# TEST DRIVEN DEVELOPMENT (TDD) APLICADO A PDCA
 ## Integrantes
 Leonardo Andrade, Elizabeth Guerrón, Martin Jimenez, Jean Luc Morales, Mathias Vera
-## Ciclo PDCA
+## CICLO PDCA
 - Plan (Plan): Realizar una función verificable a través de pruebas unitarias.
 - Hacer (Do): Prueba unitaria que define el comportamiento esperado de la funcionalidad.
 - Verificar (Check): Ejecución de la prueba, si falla, se verifica el motivo y se ajusta el código.
